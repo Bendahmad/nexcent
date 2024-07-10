@@ -193,6 +193,13 @@ body {
   .info-section {
     padding: 4rem 2rem;
   }
+
+  .stats p{
+    color: #263238;
+    margin: 0;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
   
   .info-section .btn {
     background-color: #4CAF4F;
